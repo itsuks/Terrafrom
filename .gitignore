@@ -1,0 +1,26 @@
+# Ignore .terraform directory
+.terraform/
+**/.terraform/providers/**
+
+# Ignore Terraform plan and state files
+*.tfstate
+*.tfstate.*
+*.backup
+
+# Ignore the crash log file
+crash.log
+
+# Ignore local tfvars files (may contain sensitive information)
+*.tfvars
+
+# Ignore provider binaries (like terraform-provider-azurerm)
+*.zip
+*.tar.gz
+
+# Ignore IDE/editor files (optional, based on your tools)
+.vscode/
+.idea/
+
+# Ignore OS-specific files (optional)
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+Terraform:
+-----------
+1. Terraform is an infrastructure as a code tool which helps to manage the infrastructure resources using code-driven approach based on hashicorp language.
+2. Other tools: AWS CloudFormation, Azure Resource Manager templates, etc.
+
+
+Issues with traditional methodologies used earlier before IaC tools:
+---------------------------------------------------------------------
+1. Manually configure servers.
+2. Lack of version control.
+3. Heavy Detailed Documentation for configurations.
+4. Limited automations.
+5. Slow processing.
+
+
+Why Terraform?
+---------------
+1. Multi-Cloud support.
+2. Large ecosystem.
+3. Decalarative syntax.
+4. State Management.
+5. Plan and apply.
+6. Community support.
+7. Integration with other tools.
+8. HCL Language.
